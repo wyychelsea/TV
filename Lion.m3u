@@ -11,8 +11,6 @@ http://112.86.202.37:8112/JSBC_iptv/C10000039@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000221@JSBC
 #EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV-5+体育赛事
 http://112.86.202.37:8112/JSBC_iptv/C10000040@JSBC
-#EXTINF:-1 tvg-id="CCTV5P" tvg-name="CCTV5p" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV5p
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV-6电影
 http://112.86.202.37:8112/JSBC_iptv/C10000222@JSBC
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV-7国防军事
