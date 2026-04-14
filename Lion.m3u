@@ -47,7 +47,7 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://112.86.202.37:8112/JSBC_iptv/C10000208@JSBC
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
 http://112.86.202.37:8112/JSBC_iptv/C10000210@JSBC
-#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视4K.png" group-title="卫视频道",深圳卫视
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视4K.png" group-title="卫视频道",深圳卫视4K
 http://112.86.202.37:8112/JSBC_iptv/C10000438@JSBC
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000048@JSBC
