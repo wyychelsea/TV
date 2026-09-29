@@ -51,8 +51,6 @@ http://112.86.202.37:8112/JSBC_iptv/C10000168@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000438@JSBC
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000048@JSBC
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://112.86.202.37:8112/JSBC_iptv/C10000185@JSBC
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K.png" group-title="卫视频道",北京卫视4K
 http://112.86.202.37:8112/JSBC_iptv/C10000435@JSBC
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
@@ -81,6 +79,8 @@ http://112.86.202.37:8112/JSBC_iptv/C10000043@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000459@JSBC
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道",四川卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000167@JSBC
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视频道",河南卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000185@JSBC
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视频道",天津卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000052@JSBC
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
